@@ -1,7 +1,7 @@
 Hi, I’m Maciej Maczka (@mmpleu).
-I’m interested in Data Engineering.
-I’m currently learning 'Git and GitHub'.
-I’m looking to collaborate in acquiring skills and knowledge.
+I’m interested in Data Engineering and Data Science.
+I was learning 'Git and GitHub', but something else, probably more useful, distracted me for some time.
+Now, I intend to continue in acquiring skills and knowledge.
 How to reach me? By email: mmpleu@gmail.com
 
 <!---
